@@ -23,7 +23,7 @@
                 <a class="nav-link" data-toggle="collapse" href="#ui-basic" aria-expanded="false"
                     aria-controls="ui-basic">
                     <i class="icon-layout menu-icon"></i>
-                    <span class="menu-title">Setting Control</span>
+                    <span class="menu-title">Menu Settings</span>
                     <i class="menu-arrow"></i>
                 </a>
                 <div class="collapse" id="ui-basic">
