@@ -263,6 +263,7 @@
     <script src="{{ asset('js/izitoast.js') }}"></script>
     <script src="{{ asset('assets/js/chart.js') }}"></script>
     <script src="https://cdn.ckeditor.com/ckeditor5/41.3.1/classic/ckeditor.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     {{-- <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script> --}}
     {{-- Custom JS --}}
     @stack('script_processing')
